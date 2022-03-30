@@ -1,0 +1,9 @@
+public class Variables {
+   public static void main(String[]args) {
+     int length = 1;
+     int breadth = 2;
+     int height = 3;
+     int volume = length * breadth * height;
+     System.out.prinln(volume + "cubic centimetres");
+   }
+}
